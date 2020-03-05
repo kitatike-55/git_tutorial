@@ -1,4 +1,5 @@
 #Gitチュートリアル
 
- -feature_As
+ - feature_A
  - fix_B
+ - feature_C
